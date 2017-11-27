@@ -1,5 +1,5 @@
 {
-.appVersion = "907";
+.appVersion = "1089";
 copyright = "Copyright (c) 2011, Peter Hull (peter.hull@oikoi.com), with Reserved Font Name \"VT323\".";
 customParameters = (
 {
@@ -109,6 +109,7 @@ position = "{88, 480}";
 position = "{88, -80}";
 }
 );
+iconName = Regular;
 id = "DA6254B3-9514-4A47-8309-1A9185AEAC97";
 xHeight = 400;
 }
@@ -11581,10 +11582,10 @@ transform = "{1, 0, 0, 1, 30, 400}";
 },
 {
 name = _part.pixeldbl;
-transform = "{1, 0, 0, 1, 160, 80}";
 piece = {
 "Pixel width" = 120;
 };
+transform = "{1, 0, 0, 1, 160, 80}";
 },
 {
 name = _part.pixel;
@@ -11592,17 +11593,17 @@ transform = "{1, 0, 0, 1, 210, 400}";
 },
 {
 name = _part.pixeldbl;
-transform = "{1, 0, 0, 1, 80, 0}";
 piece = {
 "Pixel width" = 159.748;
 };
+transform = "{1, 0, 0, 1, 80, 0}";
 },
 {
 name = _part.pixeldbl;
-transform = "{1, 0, 0, 1, 80, 480}";
 piece = {
 "Pixel width" = 159.748;
 };
+transform = "{1, 0, 0, 1, 80, 480}";
 },
 {
 name = _part.pixel;
@@ -11626,24 +11627,24 @@ transform = "{1, 0, 0, 1, 240, 320}";
 },
 {
 name = _part.pixel;
+piece = {
+Pixelwidth = 60;
+};
 transform = "{1, 0, 0, 1, 140, 160}";
-piece = {
-Pixelwidth = 60;
-};
 },
 {
 name = _part.pixel;
+piece = {
+Pixelwidth = 60;
+};
 transform = "{1, 0, 0, 1, 210, -80}";
-piece = {
-Pixelwidth = 60;
-};
 },
 {
 name = _part.pixel;
-transform = "{1, 0, 0, 1, 240, -160}";
 piece = {
 Pixelwidth = 60;
 };
+transform = "{1, 0, 0, 1, 240, -160}";
 }
 );
 };
@@ -18045,17 +18046,17 @@ transform = "{1, 0, 0, 1, 190, 320}";
 },
 {
 name = _part.pixeldbl;
-transform = "{1, 0, 0, 1, 50, 0}";
 piece = {
 "Pixel width" = 110;
 };
+transform = "{1, 0, 0, 1, 50, 0}";
 },
 {
 name = _part.pixeldbl;
-transform = "{1, 0, 0, 1, 50, 320}";
 piece = {
 "Pixel width" = 110;
 };
+transform = "{1, 0, 0, 1, 50, 320}";
 },
 {
 name = _part.pixel;
@@ -18067,10 +18068,10 @@ transform = "{1, 0, 0, 1, 190, 0}";
 },
 {
 name = _part.pixeldbl;
-transform = "{1, 0, 0, 1, 160, 240}";
 piece = {
 "Pixel width" = 110;
 };
+transform = "{1, 0, 0, 1, 160, 240}";
 },
 {
 name = _part.pixel;
@@ -18082,24 +18083,24 @@ transform = "{1, 0, 0, 1, 190, 480}";
 },
 {
 name = _part.pixeldbl;
-transform = "{1, 0, 0, 1, 160, 80}";
 piece = {
 "Pixel width" = 110;
 };
+transform = "{1, 0, 0, 1, 160, 80}";
 },
 {
 name = _part.pixel;
+piece = {
+Pixelwidth = 60;
+};
 transform = "{1, 0, 0, 1, 300, 480}";
-piece = {
-Pixelwidth = 60;
-};
 },
 {
 name = _part.pixel;
-transform = "{1, 0, 0, 1, 300, 400}";
 piece = {
 Pixelwidth = 60;
 };
+transform = "{1, 0, 0, 1, 300, 400}";
 }
 );
 layerId = "DA6254B3-9514-4A47-8309-1A9185AEAC97";
@@ -22261,11 +22262,10 @@ name = l;
 },
 {
 name = _part.pixel;
-transform = "{1, 0, 0, 1, 240, 240}";
 piece = {
-"Pixel width" = 159.917;
 Pixelwidth = 79.9481;
 };
+transform = "{1, 0, 0, 1, 240, 240}";
 }
 );
 layerId = "DA6254B3-9514-4A47-8309-1A9185AEAC97";
@@ -27478,10 +27478,10 @@ transform = "{1, 0, 0, 1, 80, 400}";
 },
 {
 name = _part.pixeldbl;
-transform = "{1, 0, 0, 1, 0, 320}";
 piece = {
 "Pixel width" = 159.923;
 };
+transform = "{1, 0, 0, 1, 0, 320}";
 },
 {
 name = _part.pixel;
@@ -27489,24 +27489,24 @@ transform = "{1, 0, 0, 1, 80, 480}";
 },
 {
 name = _part.pixeldbl;
-transform = "{1, 0, 0, 1, 120, 0}";
 piece = {
 "Pixel width" = 159.944;
 };
+transform = "{1, 0, 0, 1, 120, 0}";
 },
 {
 name = _part.pixeldbl;
-transform = "{1, 0, 0, 1, 160, 320}";
 piece = {
 "Pixel width" = 120;
 };
+transform = "{1, 0, 0, 1, 160, 320}";
 },
 {
 name = _part.pixeldbl;
-transform = "{1, 0, 0, 1, 20, 160}";
 piece = {
 "Pixel width" = 140;
 };
+transform = "{1, 0, 0, 1, 20, 160}";
 }
 );
 layerId = "DA6254B3-9514-4A47-8309-1A9185AEAC97";
@@ -36719,10 +36719,10 @@ background = {
 components = (
 {
 name = _part.pixeldbl;
-transform = "{1, 0, 0, 1, 110, 80}";
 piece = {
 "Pixel width" = 100;
 };
+transform = "{1, 0, 0, 1, 110, 80}";
 },
 {
 name = _part.pixel;
@@ -36730,10 +36730,10 @@ transform = "{1, 0, 0, 1, 70, -80}";
 },
 {
 name = _part.pixeldbl;
-transform = "{1, 0, 0, 1, 110, 0}";
 piece = {
 "Pixel width" = 100;
 };
+transform = "{1, 0, 0, 1, 110, 0}";
 },
 {
 name = _part.pixel;
@@ -45294,38 +45294,38 @@ background = {
 components = (
 {
 name = _part.pixel;
+piece = {
+Pixelwidth = 60;
+};
 transform = "{1, 0, 0, 1, 0, 160}";
-piece = {
-Pixelwidth = 60;
-};
 },
 {
 name = _part.pixel;
+piece = {
+Pixelwidth = 60;
+};
 transform = "{1, 0, 0, 1, 0, 320}";
-piece = {
-Pixelwidth = 60;
-};
 },
 {
 name = _part.pixel;
+piece = {
+Pixelwidth = 60;
+};
 transform = "{1, 0, 0, 1, 0, 400}";
-piece = {
-Pixelwidth = 60;
-};
 },
 {
 name = _part.pixel;
+piece = {
+Pixelwidth = 60;
+};
 transform = "{1, 0, 0, 1, 120, 320}";
-piece = {
-Pixelwidth = 60;
-};
 },
 {
 name = _part.pixel;
+piece = {
+Pixelwidth = 60;
+};
 transform = "{1, 0, 0, 1, 120, 400}";
-piece = {
-Pixelwidth = 60;
-};
 },
 {
 name = _part.pixel;
@@ -45335,24 +45335,24 @@ Pixelwidth = 60;
 },
 {
 name = _part.pixel;
+piece = {
+Pixelwidth = 60;
+};
 transform = "{1, 0, 0, 1, 0, 80}";
-piece = {
-Pixelwidth = 60;
-};
 },
 {
 name = _part.pixeldbl;
-transform = "{1, 0, 0, 1, 0, 240}";
 piece = {
 "Pixel width" = 120;
 };
+transform = "{1, 0, 0, 1, 0, 240}";
 },
 {
 name = _part.pixeldbl;
-transform = "{1, 0, 0, 1, 0, 480}";
 piece = {
 "Pixel width" = 159.948;
 };
+transform = "{1, 0, 0, 1, 0, 480}";
 },
 {
 name = _part.pixel;
@@ -50879,17 +50879,17 @@ background = {
 components = (
 {
 name = _part.pixel;
-transform = "{1, 0, 0, 1, 45, 80}";
 piece = {
 Pixelwidth = 60;
 };
+transform = "{1, 0, 0, 1, 45, 80}";
 },
 {
 name = _part.pixel;
-transform = "{1, 0, 0, 1, 85, 160}";
 piece = {
 Pixelwidth = 60;
 };
+transform = "{1, 0, 0, 1, 85, 160}";
 }
 );
 };
@@ -59811,12 +59811,12 @@ nodes = (
 );
 }
 );
-width = 400;
 userData = {
 PartSelection = {
 Pixelwidth = 2;
 };
 };
+width = 400;
 },
 {
 associatedMasterId = "DA6254B3-9514-4A47-8309-1A9185AEAC97";
@@ -59890,12 +59890,12 @@ nodes = (
 );
 }
 );
-width = 400;
 userData = {
 PartSelection = {
 Pixelwidth = 1;
 };
 };
+width = 400;
 }
 );
 partsSettings = (
@@ -59963,12 +59963,12 @@ nodes = (
 );
 }
 );
-width = 400;
 userData = {
 PartSelection = {
 "Pixel width" = 1;
 };
 };
+width = 400;
 },
 {
 associatedMasterId = "DA6254B3-9514-4A47-8309-1A9185AEAC97";
@@ -59995,12 +59995,12 @@ nodes = (
 );
 }
 );
-width = 400;
 userData = {
 PartSelection = {
 "Pixel width" = 2;
 };
 };
+width = 400;
 }
 );
 partsSettings = (
